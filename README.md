@@ -1,3 +1,3 @@
 == README
 
-TBD
+Many-to-many relations example using Posts and Tags.
